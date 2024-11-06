@@ -1,1 +1,32 @@
 # Netlogo
+1. Modelo de transmisión de epidemias.
+- Propósito: Construir un modelo de transmisión de enfermedades infecciosas para comprender los factores que afectan las tasas de infección y la efectividad de las medidas de control.
+-Agente: Un individuo o diferentes estados de un individuo que puede participar en la propagación de una enfermedad infecciosa: susceptible, infectado. , restauración o limpieza.
+- Entorno: la red conectada o el espacio geográfico en el que las personas interactúan puede ser un espacio cerrado (por ejemplo, una ciudad) o una red de comunicación (por ejemplo, transporte público).
+- Reglas:
+- Las personas sensibles pueden infectarse si entran en contacto con una persona infectada.
+- Las personas infectadas pueden recuperarse o morir.
+- Las personas recuperadas pueden volverse inmunes o, en algunos modelos, susceptibles nuevamente.
+- Parámetros personalizables:
+- Nivel de infección y nivel de recuperación.
+-Tiempo de inmunidad.
+-Tasa de mortalidad.
+- La eficacia de las medidas preventivas (por ejemplo, mantener la distancia o usar máscaras).
+- Resultados esperados:
+- Predicción del pico de infección.
+- Impacto de las medidas preventivas en la reducción de la incidencia.
+- duración esperada. Las epidemias dependen de parámetros.
+2. Modelo de ecosistema depredador-presa.
+- Objetivo:Comprender la dinámica de las interacciones entre depredadores y presas y el impacto de diferentes condiciones en la estabilidad del ecosistema.
+- Tema: Dos especies principales: presas (por ejemplo, conejos) y depredadores (por ejemplo, conejos).
+- Medio ambiente: Un ecosistema cerrado o espacio natural donde agentes de dos especies interactúan y adquieren recursos.
+- Reglas:
+- Los depredadores cazan a sus presas para sobrevivir.
+- Las presas se reproducen a un ritmo determinado. , la supervivencia de un depredador depende de la abundancia de presas.
+- Si hay demasiados depredadores y muy pocas presas, los depredadores morirán por falta de alimento.
+- Parámetros ajustables:
+- Tasa de reproducción de presas.
+- Tasa de éxito de la depredación
+- Mortalidad natural de ambas especies:
+- Ciclo poblacional y estado de la población.
+- Efectos del cambio ambiental o de la población sobre las tasas reproductivas y la estabilidad del ecosistema
